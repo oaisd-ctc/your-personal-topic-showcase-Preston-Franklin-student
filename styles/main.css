@@ -1,0 +1,17 @@
+#forest{
+    background-color:#00da99;
+   width:9%; 
+   border-radius:10px;
+   padding-left:0px;
+}
+#desert{
+    background-color:#eecb00;
+   width:7%; 
+   border-radius:10px;
+}
+body{
+    font-size:17px;
+}
+ul{
+    list-style-type:disc; 
+ }
