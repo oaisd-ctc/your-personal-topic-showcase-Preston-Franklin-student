@@ -1,16 +1,26 @@
 #forest{
     background-color:#00da99;
-   width:9%; 
-   border-radius:10px;
-   padding-left:0px;
+   width:170px; 
+   border-radius:15px;
+   padding-left:1px;
+   padding-top:1px;
+   padding-bottom:1px;
 }
 #desert{
     background-color:#eecb00;
-   width:7%; 
-   border-radius:10px;
+   width:170px; 
+   border-radius:15px;
+   padding-left:1px;
+   padding-top:1px;
+   padding-bottom:1px;
+}
+header{
+text-align:center;
 }
 body{
-    font-size:17px;
+    font-size:25px;
+    margin-left:75px;
+    margin-right:75px;
 }
 ul{
     list-style-type:disc; 
