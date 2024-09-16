@@ -1,8 +1,20 @@
 header{
     text-align:center;
     }
-    body{
-        font-size:25px;
-        margin-left:75px;
-        margin-right:75px;
-    }
+body{
+     font-size:25px;
+     margin-left:200px;
+     margin-right:200px;
+     background-color:#119911;
+}
+aside{
+    background-color:#443395;
+    border-radius:25px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+}
+footer{
+    text-align:center;
+    font-size:15px;
+}

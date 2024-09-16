@@ -14,13 +14,22 @@
    padding-top:1px;
    padding-bottom:1px;
 }
+#ocean{
+    background-color:#0099ee;
+   width:170px; 
+   border-radius:15px;
+   padding-left:1px;
+   padding-top:1px;
+   padding-bottom:1px;
+}
 header{
 text-align:center;
 }
 body{
     font-size:25px;
-    margin-left:75px;
-    margin-right:75px;
+    margin-left:200px;
+    margin-right:200px;
+    background-color:#808a88;
 }
 ul{
     list-style-type:disc; 
