@@ -13,8 +13,48 @@ aside{
     padding-bottom:5px;
     padding-left:10px;
     padding-right:10px;
+    padding-top:5px;
+    margin-top:5px;
 }
 footer{
     text-align:center;
     font-size:15px;
+}
+h1{
+    color:#013221;
+}
+h2{
+    color:#095d00;
+}
+p{
+   color:#032a0f;
+}
+main{
+    background-color:#90ab04;
+    padding:15px;
+    border-radius:15px;
+}
+.bog{
+    background-color:#443395;
+    color:#ffccff;
+}
+.forest{
+    background-color:#258744;
+    color:#34c469;
+    width:200px;
+    padding-left:30px;
+    padding-right:5px;
+    padding-top:1px;
+    padding-bottom:1px;
+    border-radius:25px;
+}
+.other{
+    background-color:#c4bd0b;
+    color:#e7fb3f;
+    width:200px;
+    padding-left:30px;
+    padding-right:5px;
+    padding-top:1px;
+    padding-bottom:25px;
+    border-radius:25px;
 }

@@ -1,5 +1,6 @@
 #forest{
     background-color:#00da99;
+    color:#003417;
    width:170px; 
    border-radius:15px;
    padding-left:1px;
@@ -8,6 +9,7 @@
 }
 #desert{
     background-color:#eecb00;
+    color:#983600;
    width:170px; 
    border-radius:15px;
    padding-left:1px;
@@ -16,6 +18,7 @@
 }
 #ocean{
     background-color:#0099ee;
+    color:#004355;
    width:170px; 
    border-radius:15px;
    padding-left:1px;
@@ -23,7 +26,16 @@
    padding-bottom:1px;
 }
 header{
-text-align:center;
+    color:#345566;
+    text-align:center;
+}
+p{
+color:#176092;
+}
+main, h1{
+background-color:#abccdd;
+padding:15px;
+border-radius:25px
 }
 body{
     font-size:25px;
